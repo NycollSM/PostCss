@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/NycollSM/PostCss#readme",
   "devDependencies": {
+    "cssnext": "^1.8.4",
     "csswring": "^7.0.0",
     "gulp": "^4.0.0",
-    "gulp-postcss": "^8.0.0"
+    "gulp-postcss": "^8.0.0",
+    "precss": "^4.0.0"
   }
 }
